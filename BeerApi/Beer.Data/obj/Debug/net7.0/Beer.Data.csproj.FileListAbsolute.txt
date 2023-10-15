@@ -1,0 +1,14 @@
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\bin\Debug\net7.0\Beer.Data.deps.json
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\bin\Debug\net7.0\Beer.Data.runtimeconfig.json
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\bin\Debug\net7.0\Beer.Data.dll
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\bin\Debug\net7.0\Beer.Data.pdb
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\obj\Debug\net7.0\Beer.Data.csproj.AssemblyReference.cache
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\obj\Debug\net7.0\Beer.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\obj\Debug\net7.0\Beer.Data.AssemblyInfoInputs.cache
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\obj\Debug\net7.0\Beer.Data.AssemblyInfo.cs
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\obj\Debug\net7.0\Beer.Data.csproj.CoreCompileInputs.cache
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\obj\Debug\net7.0\Beer.Data.dll
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\obj\Debug\net7.0\refint\Beer.Data.dll
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\obj\Debug\net7.0\Beer.Data.pdb
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\obj\Debug\net7.0\Beer.Data.genruntimeconfig.cache
+E:\learn_code\Api_Gateways\Tutorial1\BeerApi\Beer.Data\obj\Debug\net7.0\ref\Beer.Data.dll

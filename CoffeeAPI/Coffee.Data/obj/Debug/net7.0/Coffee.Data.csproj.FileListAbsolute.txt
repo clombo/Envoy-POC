@@ -1,0 +1,14 @@
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\bin\Debug\net7.0\Coffee.Data.deps.json
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\bin\Debug\net7.0\Coffee.Data.runtimeconfig.json
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\bin\Debug\net7.0\Coffee.Data.dll
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\bin\Debug\net7.0\Coffee.Data.pdb
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\obj\Debug\net7.0\Coffee.Data.csproj.AssemblyReference.cache
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\obj\Debug\net7.0\Coffee.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\obj\Debug\net7.0\Coffee.Data.AssemblyInfoInputs.cache
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\obj\Debug\net7.0\Coffee.Data.AssemblyInfo.cs
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\obj\Debug\net7.0\Coffee.Data.csproj.CoreCompileInputs.cache
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\obj\Debug\net7.0\Coffee.Data.dll
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\obj\Debug\net7.0\refint\Coffee.Data.dll
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\obj\Debug\net7.0\Coffee.Data.pdb
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\obj\Debug\net7.0\Coffee.Data.genruntimeconfig.cache
+E:\learn_code\Api_Gateways\Tutorial1\CoffeeAPI\Coffee.Data\obj\Debug\net7.0\ref\Coffee.Data.dll

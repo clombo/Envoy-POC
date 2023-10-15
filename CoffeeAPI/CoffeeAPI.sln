@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee.API", "Coffee.API\Coffee.API.csproj", "{5DFA6D0D-A380-4056-8035-C188CF478D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee.Data", "Coffee.Data\Coffee.Data.csproj", "{CFB4D35A-2B3A-41DE-9004-8D91CC7A49E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFA6D0D-A380-4056-8035-C188CF478D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFA6D0D-A380-4056-8035-C188CF478D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFA6D0D-A380-4056-8035-C188CF478D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFA6D0D-A380-4056-8035-C188CF478D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB4D35A-2B3A-41DE-9004-8D91CC7A49E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB4D35A-2B3A-41DE-9004-8D91CC7A49E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB4D35A-2B3A-41DE-9004-8D91CC7A49E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB4D35A-2B3A-41DE-9004-8D91CC7A49E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
